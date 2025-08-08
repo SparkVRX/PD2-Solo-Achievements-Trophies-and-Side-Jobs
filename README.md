@@ -20,7 +20,7 @@ The descriptions of the affected achievements and trophies in the game itself ha
 
 **[<ins>Download mod</ins>](https://github.com/SparkVRX/pd2-solo-achievements-trophies-and-side-jobs/releases/download/v1.0/Solo.Achievements.Trophies.and.Side.Jobs.rar)**
 
-## Affected Achievements
+## Affected achievements
 **Virus**  
 Now, to get the achievement in offline mode, you can complete the No Mercy job on the OVERKILL difficulty or above.
 
@@ -141,7 +141,7 @@ The progress is displayed in the achievement menu, in the achievement descriptio
 **Texas Treasures, Part 4**  
 The time to respond to intercoms in offline mode has been changed to 80 seconds.
 
-## Affected Safehouse Trophies
+## Affected trophies
 **Mercenary**  
 Now you can complete the challenge in offline mode. You can play with bots. The conditions of the challenge apply only to the player.
 
@@ -155,7 +155,7 @@ Now you can complete the challenge in offline mode. You can play with bots. The 
 **Event missions**  
 Disabled community conditions checks. Now it is not necessary to play the license version of the game to complete missions.
 
-## Useful Features
+## Useful features
 These features are included in this mod. All of them are my own works, created from scratch, even if someone else has already created similar ones. My functions work better, more stable and safer.
 
 **Cable Ties Rebalance**  
