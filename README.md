@@ -97,7 +97,7 @@ The minimum required difficulty level in offline mode has been changed to OVERKI
 The required time in offline mode has been changed to 7 seconds.
 
 **OVERDRILL**  
-Now, in offline mode, you can activate the secret by pressing a hotkey. You can set it in the settings, in the Mod Keybinds section.
+Now, in offline mode, you can activate the secret by pressing a hotkey. You can set it in the settings, in the Mod Keybinds section.  
 Activation is possible only after raising the alarm and only on the "Death Wish" difficulty or above.
 
 **Original Heisters**  
@@ -116,7 +116,7 @@ The required number of ammo bags in offline mode has been changed to 2.
 Now you can complete the achievement with bots in offline mode. The conditions of the achievement apply only to the player.
 
 **Pyromaniacs**  
-The required number of gasoline tanks in offline mode has been changed to 1.
+The required number of gasoline tanks in offline mode has been changed to 1.  
 The required time in offline mode has been changed to 15 seconds.
 
 **Boom, Headshot!**  
@@ -135,7 +135,7 @@ The required time in offline mode has been changed to 10 seconds.
 Now, to get the achievement in offline mode, you can complete a job on the Death Wish difficulty or above without bots.
 
 **For the Mad Hatter**  
-Now you can track the achievement progress, which allows you to find out which contracts have not yet met the condition.
+Now you can track the achievement progress, which allows you to find out which contracts have not yet met the condition.  
 The progress is displayed in the achievement menu, in the achievement description.
 
 **Texas Treasures, Part 4**  
