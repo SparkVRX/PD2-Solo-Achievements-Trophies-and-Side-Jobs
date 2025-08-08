@@ -76,7 +76,7 @@ The required time in offline mode has been changed to 5 minutes.
 Now you can complete the achievement in offline mode. You can play with bots. The conditions of the achievement apply only to the player.
 
 **It Takes a Pig to Kill a Pig**  
-Now, in offline mode, you can drop a pig not only on an aggressive opponent, but also on a surrendered one.
+Now, in offline mode, you can drop a pig not only on an aggressive enemy, but also on a surrendered one.
 
 **It Takes Two to Tango**  
 Now in offline mode the waypoint will mark the correct computer instead of the approximate location.
