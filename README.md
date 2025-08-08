@@ -3,7 +3,7 @@ English | [Russian](https://github.com/SparkVRX/pd2-solo-achievements-trophies-a
 
 This mod allows a solo player to complete **PAYDAY 2** 100%, get genuine pleasure and not resort to using glitches, cheats and other similar tricks. It gives the opportunity to complete absolutely all achievements and safehouse trophies intended only for co-op. We are talking about both those that are impossible to complete alone, and those that are incredibly difficult when playing alone. Also, community conditions checks for a series of side jobs and one achievement are disabled, which allows to fully enjoy the game even for those who do not use its licensed version.
 
-## How does this work
+## How does it work
 **Conditions for the player**  
 Each achievement/trophy that is designed for co-op now has conditions that can be completed solo. These conditions will only work when playing offline.
 
